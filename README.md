@@ -3,7 +3,7 @@
 Node.js automation that recreates the provided `curl` request using `blessed` for a TUI, `@faker-js/faker` for randomized account data, and HTTPS proxies for every request.
 
 #### Setup
-1. `cd cryptowaveblog`
+1. `cd fantastic-journey`
 2. Install deps: `npm install`
 3. Create `proxies.txt` in this folder with one proxy per line (`http://user:pass@host:port`). HTTPS and unauthenticated proxies are supported as well.
 
