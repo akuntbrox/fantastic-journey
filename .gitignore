@@ -1,0 +1,7 @@
+# dependencies
+node_modules/
+package-lock.json
+
+# runtime data
+proxies.txt
+accounts-success.csv
